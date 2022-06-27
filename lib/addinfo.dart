@@ -309,4 +309,5 @@ class _AddInfoScreenState extends State<AddInfoScreen> {
                 // user: widget.user,
                 )));
   }
+  
 }
