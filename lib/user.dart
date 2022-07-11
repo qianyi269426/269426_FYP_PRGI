@@ -4,4 +4,5 @@ class User {
   User({
     this.email,
   });
+  
 }
